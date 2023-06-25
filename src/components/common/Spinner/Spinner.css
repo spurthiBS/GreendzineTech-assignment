@@ -1,0 +1,17 @@
+.spinner{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    z-index: 1000;
+}
+
+.background-blur{
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: #666;
+    opacity: 0.8;
+    z-index: 998;
+    height: 100%;
+    width: 100%;
+}

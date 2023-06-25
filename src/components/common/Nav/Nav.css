@@ -1,0 +1,12 @@
+.navbar{
+    background-color: #7aaa3f !important;
+    height: 80px;
+    border-radius: 0px;
+    padding-bottom: 10px;
+} 
+
+.navbar h1{
+    color: white;
+}
+
+

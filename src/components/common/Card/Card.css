@@ -1,0 +1,29 @@
+.card-title{
+    font-size: 15px;
+  }
+  
+  .card-img{
+    margin-bottom: 10px;
+    min-height: 150px;
+    width: 150px !important;
+  }
+
+  .card{
+    position: relative;
+    border: none;
+  }
+
+  .card-badge{
+    position: absolute;
+    top: -10px;
+    right: -10px;
+    background-color: black;
+    border-radius: 50% !important;
+    padding: 8px !important;
+    font-size: 10px !important;
+  }
+
+  .card :hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    transition: .3s ease;
+  }
